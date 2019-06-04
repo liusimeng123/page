@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">page</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_first">大熊猫（学名：Ailuropoda melanoleuca）：属于食肉目、熊科、大熊猫亚科和大熊猫属唯一的哺乳动物，头躯长1.2-1.8米，尾长10-12厘米。体重80-120千克，最重可达180千克，体色为黑白两色，它有着圆圆的脸颊，大大的黑眼圈，胖嘟嘟的身体，标志性的内八字的行走方式，也有解剖刀般锋利的爪子。是世界上最可爱的动物之一。</string>
+    <string name="label_second">象，通称大象，是目前陆地上最大的哺乳动物，属于长鼻目，只有一科两属三种，即象科（学名：Elephantidae），非洲象属和亚洲象属。广泛分布在非洲撒哈拉沙漠以南和南亚及东南亚以至中国南部边境的热带及亚热带地区。大象是现存世界上最大的陆地栖息群居性哺乳动物，通常以家族为单位活动。</string>
+    <string name="label_third">虎（学名：Panthera tigris ；英文名：Tiger）： 大型猫科动物；毛色浅黄或棕黄色，满身黑色横纹；头圆、耳短，耳背面黑色，中央有一白斑甚显著；四肢健壮有力；尾粗长，具黑色环纹，尾端黑色。虎是典型的山地林栖动物，由南方的热带雨林、常绿阔叶林，以至北方的落叶阔叶林和针阔叶混交林，都能很好的生活。</string>
+</resources>
